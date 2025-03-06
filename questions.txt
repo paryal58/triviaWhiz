@@ -1,0 +1,84 @@
+# Questions file for the program
+# Format of Questions: Questions|Options|Answer
+
+What is the largest ocean on Earth?|Atlantic|Indian|Southern|Pacific|4  
+What is the tallest mountain in the world?|K2|Kangchenjunga|Mount Everest|Mount Kilimanjaro|3  
+What is the currency of Japan?|Yuan|Won|Yen|Ringgit|3  
+Who wrote "Romeo and Juliet"?|Shakespeare|Dickens|Hemingway|Austen|1  
+What is the smallest country in the world?|Vatican City|Monaco|Nauru|San Marino|1  
+Which element has the chemical symbol O?|Oxygen|Gold|Osmium|Ozone|1  
+Who discovered penicillin?|Einstein|Newton|Fleming|Curie|3  
+What is the longest river in the world?|Amazon|Nile|Yangtze|Mississippi|2  
+What is the capital of Canada?|Vancouver|Montreal|Ottawa|Toronto|3  
+Which country is known as the Land of the Rising Sun?|South Korea|China|Japan|Thailand|3  
+What is the chemical symbol for water?|O2|CO2|H2O|NaCl|3  
+What is the fastest land animal?|Cheetah|Lion|Antelope|Tiger|1  
+Which of these is a prime number?|12|15|17|18|3  
+Who was the first President of the United States?|Abraham Lincoln|George Washington|Thomas Jefferson|Andrew Jackson|2  
+What is the capital of Australia?|Sydney|Melbourne|Canberra|Brisbane|3  
+Who is known as the "Father of Computers"?|Charles Babbage|Alan Turing|Bill Gates|Steve Jobs|1  
+What is the largest desert in the world?|Gobi|Sahara|Atacama|Antarctic|4  
+Which of these countries is located in Africa?|Argentina|Nigeria|Thailand|Canada|2  
+What is the square root of 144?|10|11|12|13|3  
+What is the largest planet in our solar system?|Earth|Jupiter|Saturn|Uranus|2  
+Who was the first man to walk on the moon?|Buzz Aldrin|Neil Armstrong|Yuri Gagarin|John Glenn|2  
+What is the capital of Italy?|Rome|Milan|Venice|Florence|1  
+What is the smallest planet in our solar system?|Mercury|Mars|Venus|Earth|1  
+In which country would you find the Eiffel Tower?|Spain|Italy|France|Germany|3  
+What is the tallest building in the world?|Eiffel Tower|Burj Khalifa|Empire State Building|Willis Tower|2  
+Which animal is the symbol of the World Wildlife Fund (WWF)?|Elephant|Lion|Tiger|Panda|4  
+Who is the author of the Harry Potter books?|J.R.R. Tolkien|C.S. Lewis|J.K. Rowling|Stephen King|3  
+What is the chemical symbol for gold?|Ag|Fe|Au|Pb|3  
+What is the longest bone in the human body?|Femur|Tibia|Fibula|Humerus|1  
+Which continent is known as the "Frozen Continent"?|Europe|Antarctica|Asia|Africa|2  
+What is the capital of Germany?|Berlin|Munich|Hamburg|Frankfurt|1  
+Which gas do plants absorb from the atmosphere for photosynthesis?|Oxygen|Nitrogen|Carbon Dioxide|Hydrogen|3  
+In which city can you find the Colosseum?|Athens|Rome|Paris|London|2  
+What is the national animal of Australia?|Kangaroo|Koala|Emu|Crocodile|1  
+Which ocean lies between Africa and Australia?|Atlantic|Indian|Arctic|Pacific|2  
+Who invented the light bulb?|Nikola Tesla|Thomas Edison|Alexander Graham Bell|Marie Curie|2  
+What is the largest continent by area?|Asia|Africa|North America|Europe|1  
+What is the speed of light?|300,000 km/s|150,000 km/s|450,000 km/s|600,000 km/s|1  
+Which country has the largest population?|USA|China|India|Brazil|2  
+Which country is known for the Great Wall?|Japan|China|India|South Korea|2  
+Which planet is closest to the sun?|Venus|Earth|Mercury|Mars|3  
+Who developed the theory of relativity?|Isaac Newton|Nikola Tesla|Albert Einstein|Galileo Galilei|3  
+What is the largest animal in the world?|Elephant|Blue whale|Giraffe|Shark|2  
+In which city can you find the Taj Mahal?|Delhi|Mumbai|Agra|Chennai|3  
+What is the official language of Brazil?|Spanish|English|French|Portuguese|4  
+Which bird is known for its colorful feathers and ability to mimic sounds?|Parrot|Penguin|Eagle|Sparrow|1  
+What is the hardest natural substance on Earth?|Gold|Iron|Diamond|Platinum|3  
+What is the capital of the United Kingdom?|London|Manchester|Birmingham|Cardiff|1  
+Who wrote "Pride and Prejudice"?|Charles Dickens|Jane Austen|Mark Twain|Emily Brontë|2  
+What is the chemical symbol for sodium?|Na|S|K|Cl|1  
+What is the largest island in the world?|Greenland|New Guinea|Australia|Madagascar|1  
+What is the national flower of Japan?|Rose|Cherry Blossom|Lily|Tulip|2  
+Which country has the largest land border?|Russia|China|Canada|USA|1  
+What is the capital of India?|New Delhi|Mumbai|Kolkata|Chennai|1  
+Which ocean lies between Africa and North America?|Atlantic|Indian|Arctic|Pacific|1  
+What is the most common gas in the Earth's atmosphere?|Oxygen|Nitrogen|Carbon Dioxide|Hydrogen|2  
+Which of these planets has the shortest day?|Mars|Jupiter|Earth|Venus|2  
+What is the largest island country in the world?|Greenland|Indonesia|Australia|Philippines|2  
+Who painted the Sistine Chapel ceiling?|Michelangelo|Raphael|Da Vinci|Van Gogh|1  
+What is the longest-running Broadway musical?|Les Misérables|The Phantom of the Opera|Wicked|Cats|2  
+What is the capital of Egypt?|Cairo|Alexandria|Luxor|Aswan|1  
+Which country is known for its tulips?|Germany|Netherlands|Italy|France|2  
+What is the largest species of bear?|Grizzly bear|Polar bear|Black bear|Giant panda|2  
+Who invented the telephone?|Alexander Graham Bell|Thomas Edison|Nikola Tesla|Samuel Morse|1  
+Which of these animals is a reptile?|Frog|Lizard|Eagle|Bat|2  
+What is the chemical symbol for silver?|Ag|Au|Fe|Pb|1  
+What is the longest-running animated TV show?|Family Guy|The Simpsons|Futurama|South Park|2  
+What is the deepest ocean in the world?|Atlantic|Indian|Arctic|Pacific|4  
+What is the main ingredient in sushi?|Rice|Fish|Seaweed|Noodles|1  
+What is the national bird of the United States?|Eagle|Robin|Owl|Sparrow|1  
+What is the name of the longest mountain range in the world?|Himalayas|Andes|Rockies|Alps|2  
+What is the capital of Mexico?|Guadalajara|Mexico City|Cancun|Monterrey|2  
+What is the largest lake in Africa?|Lake Victoria|Lake Tanganyika|Lake Malawi|Lake Baikal|1  
+What is the tallest waterfall in the world?|Niagara Falls|Victoria Falls|Angel Falls|Iguazu Falls|3  
+What is the national sport of Canada?|Football|Baseball|Lacrosse|Basketball|3  
+What is the capital of Brazil?|Rio de Janeiro|São Paulo|Brasília|Salvador|3  
+Who invented the first successful steam engine?|James Watt|George Stephenson|Nikola Tesla|Thomas Edison|1  
+What is the chemical symbol for iron?|Fe|Ir|I|F|1  
+What is the most populated city in the world?|Tokyo|New York|Beijing|Delhi|1  
+Who was the first female Prime Minister of the UK?|Theresa May|Margaret Thatcher|Mary Robinson|Ellen Johnson Sirleaf|2  
+What is the largest bird in the world?|Emu|Penguin|Ostrich|Condor|3  
